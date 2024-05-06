@@ -7,8 +7,8 @@
 ---
 ### 🚀 **Skills** 
 - **Web Development:** gRPC, Gin, FastAPI, ROS, Temporal
-- **CI/CD:** Kubernetes, Docker Swarm, Docker, GitLab CI/CD
-- **Data Management:** PostgreSQL, CockroachDB, ClickHouse, NoSQL, Apache Airflow, Kafka
+- **CI/CD:** Kubernetes, Docker Swarm, Docker, GitLab CI/CD, DVC
+- **Data Management:** PostgreSQL, CockroachDB, ClickHouse, NoSQL, Apache Airflow, Kafka, Delta lake
 - **Cyber Security:** Metasploit, Burp Suite, Wireshark
 - **Machine Learning:** PyTorch, Model Optimization, Ray, Ollama, MLFlow, Kubeflow
 - **System Programming:** FreeRTOS, QEMU, Linux
